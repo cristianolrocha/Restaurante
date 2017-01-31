@@ -1,0 +1,15 @@
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\bin\Debug\Scheduling.Model.dll.config
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\bin\Debug\Scheduling.Model.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\bin\Debug\Scheduling.Model.pdb
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\bin\Debug\EntityFramework.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\bin\Debug\EntityFramework.xml
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.csprojResolveAssemblyReference.cache
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.Migrations.InitialCreate.resources
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.Migrations.SchedulingCreate.resources
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.Migrations.SchedulingCreate1.resources
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.Migrations.Schedulingupdate.resources
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.csproj.GenerateResource.Cache
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Model\obj\Debug\Scheduling.Model.pdb

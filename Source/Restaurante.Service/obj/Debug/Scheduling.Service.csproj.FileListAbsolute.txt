@@ -1,0 +1,11 @@
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\Scheduling.Service.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\Scheduling.Service.pdb
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\Scheduling.Model.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\Scheduling.Repository.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\EntityFramework.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\Scheduling.Model.pdb
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\Scheduling.Repository.pdb
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\bin\Debug\EntityFramework.xml
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\obj\Debug\Scheduling.Service.csprojResolveAssemblyReference.cache
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\obj\Debug\Scheduling.Service.dll
+C:\Users\crist\Source\Workspaces\Enigma\Scheduling\Source\Scheduling.Service\obj\Debug\Scheduling.Service.pdb
